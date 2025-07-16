@@ -110,10 +110,9 @@ Shaantim icchanti jantavah
 ## Credits & References
 
 * Google Colab walkthrough: https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing
-* GitHub repo for Karpathy's code: [https://github.com/karpathy/ng-video-lecture](https://github.com/karpathy/ng-video-lecture)
-* Karpathy's Zero to Hero playlist: [https://www.youtube.com/playlist?list=PLpOqH6AE0tNjNfcoR4xgrz0kZ0jn\_p6d7](https://www.youtube.com/playlist?list=PLpOqH6AE0tNjNfcoR4xgrz0kZ0jn_p6d7)
-* nanoGPT repository: [https://github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
-
+* GitHub repo for Karpathy's code: https://github.com/karpathy/ng-video-lecture
+* Karpathy's Zero to Hero playlist: https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1
+* nanoGPT repository: https://github.com/karpathy/nanoGPT
 ## Author
 
 This project was created and trained by Akshaj Bansal as a demonstration of end-to-end understanding of transformer architectures, model training, and dataset engineering. The unique choice of dataset reflects an appreciation for cultural roots while applying cutting-edge AI techniques to stylistic language modeling.
